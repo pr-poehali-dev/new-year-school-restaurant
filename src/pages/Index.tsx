@@ -439,7 +439,7 @@ export default function Index() {
             <Section>
               <div className="space-y-6">
                 {[
-                  { icon: "MapPin", label: "Адрес", value: "ул. Школьная, 16, Москва" },
+                  { icon: "MapPin", label: "Адрес", value: "ул. Ивана Виноградова, д. 18" },
                   { icon: "Phone", label: "Телефон", value: "+7 (495) 123-45-67" },
                   { icon: "Mail", label: "Email", value: "info@shkola16.ru" },
                   { icon: "Clock", label: "Режим работы", value: "Пн–Вс: 12:00 – 23:00" },
