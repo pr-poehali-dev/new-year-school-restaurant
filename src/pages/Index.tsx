@@ -508,6 +508,11 @@ export default function Index() {
             </Section>
           </div>
         </div>
+        <div className="max-w-6xl mx-auto mt-12 text-center">
+          <p className="text-sm" style={{ color: "#8888a0" }}>
+            Создатели: <span style={{ color: "#c0c0d0" }}>Волков Платон, Сиберт Денис</span>
+          </p>
+        </div>
       </section>
 
       {/* FOOTER */}
